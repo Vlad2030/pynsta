@@ -1,7 +1,7 @@
 # API.
 # Take from https://my.telegram.org/apps.
-api_id = 4210896 # API ID.
-api_hash = 'aa967870c25b76ad4af8eac0cc8e117e' # API hash.
+api_id = 12345678 # API ID.
+api_hash = '' # API hash.
 
 # Count.
 i = 0
